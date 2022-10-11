@@ -21,8 +21,10 @@
   <p>
 </div> 
 
+<br/>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/FerGastiarena)](https://twitter.com/FerGastiarena)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mf.gastiarena@gmail.com)](mailto:mf.gastiarena@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mf.gastiarena@gmail.com)](mailto:mf.gastiarena@gmail.com)
+[![Linkedin: fernanda-gastiarena](https://img.shields.io/badge/-FerGastiarena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-gastiarena/)](https://www.linkedin.com/in/fernanda-gastiarena/)
 [![Instagram Badge](https://img.shields.io/badge/-@fergastiarena-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/fergastiarena/)](https://instagram.com/fergastiarena)
+[![Twitter: FerGastiarena](https://img.shields.io/twitter/follow/FerGastiarena?style=social)](https://twitter.com/FerGastiarena)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fgastiarena)
