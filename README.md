@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Fernanda 👋 </h1>
-<h3 align="center">🚀 Frontend Developer | Competitive Programmer  🚀</h3>
+<h3 align="center">🚀 Frontend Developer 🚀</h3>
 <div>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <div align="left"> 
