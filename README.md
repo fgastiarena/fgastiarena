@@ -23,7 +23,7 @@
 
 <br/>
 
-[![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto: mf.gastiarena@gmail.com)](mailto:mf.gastiarena@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mf.gastiarena@gmail.com)](mailto:mf.gastiarena@gmail.com)
 [![Linkedin: fernanda-gastiarena](https://img.shields.io/badge/-FerGastiarena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-gastiarena/)](https://www.linkedin.com/in/fernanda-gastiarena/)
 [![Instagram Badge](https://img.shields.io/badge/-@fergastiarena-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/fergastiarena/)](https://instagram.com/fergastiarena)
 [![Twitter: FerGastiarena](https://img.shields.io/twitter/follow/FerGastiarena?style=social)](https://twitter.com/FerGastiarena)
